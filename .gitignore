@@ -1,0 +1,6 @@
+*.csv
+*.pyc
+*.db*
+gtr/__pycache__/settings.cpython-38.pyc
+gtr/spiders/__pycache__/gtr_spider.cpython-38.pyc
+gtr/__pycache__/settings.cpython-38.pyc
